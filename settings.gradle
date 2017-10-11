@@ -1,0 +1,3 @@
+rootProject.name = 'compa-note'
+include 'laptops'
+
